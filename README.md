@@ -15,7 +15,7 @@ The Idasen is a Linak standing desk sold by Ikea. It can be controlled by a phys
 Install using pip:
 
 ```
-pip3 install idasen-controller
+pip3 install git+https://github.com/Shawson/idasen-controller.git@master
 ```
 
 ### Configuration
